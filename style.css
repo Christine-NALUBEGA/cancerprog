@@ -1,0 +1,29 @@
+* {
+    background-color: aquamarine;
+    margin: 1%;
+    text-align: left;
+}
+
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+a{
+    font-size: x-large;
+    text-decoration: none;
+}
+input{
+    width: 70%;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+
+    
